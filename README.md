@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido como parte de um desafio prático com **Power BI**, tendo como objetivo **criar três páginas de relatório interativo** a partir de um dataset de vendas.
 
-🔗 Dataset utilizado: !([Dados](https://github.com/WeberBar/Analisando-dados-de-um-Dashboard-de-Vendas-no-Power-BI/blob/main/Financial%20Sample.xlsx))
+🔗 Dataset utilizado: [Dados](https://github.com/WeberBar/Analisando-dados-de-um-Dashboard-de-Vendas-no-Power-BI/blob/main/Financial%20Sample.xlsx)
 
 ---
 
